@@ -1,0 +1,24 @@
+_repo: The-Hermitage-Home-of-General-Andrew-Jackson_51641
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dorris, Mary C. (Mary C. Currey)
+    birthdate: 1850
+    gutenberg_agent_id: '46505'
+    url: http://www.gutenberg.org/2009/agents/46505
+description: ''
+gutenberg_issued: '2016-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hermitage (Hermitage, Tenn.)'
+- !lcc 'E300'
+- !lcsh 'Jackson, Andrew, 1767-1845 -- Homes and haunts -- Tennessee -- Hermitage'
+- GITenberg
+title: The Hermitage, Home of General Andrew Jackson
+url: http://www.gutenberg.org/ebooks/51641
