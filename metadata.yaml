@@ -1,5 +1,8 @@
 _repo: The-Hermitage-Home-of-General-Andrew-Jackson_51641
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51641-h/images/cover.jpg
 creator:
   author:
     agent_name: Dorris, Mary C. (Mary C. Currey)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46505'
     url: http://www.gutenberg.org/2009/agents/46505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51641#The-Hermitage-Home-of-General-Andrew-Jackson
 gutenberg_issued: '2016-04-02'
 gutenberg_type: Text
 identifiers:
